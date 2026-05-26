@@ -1,0 +1,37 @@
+SUTRA Project & Advisory Services provides the following services:
+
+1. AI Systems
+Development of AI-powered enterprise systems, intelligent automation workflows, chatbot solutions and operational intelligence platforms.
+
+2. Software Development
+Custom software solutions, enterprise applications, dashboard systems, web platforms and business management systems.
+
+3. Mobile Application Development
+Offline-first Android applications, field data collection apps, GPS-enabled operational systems and survey infrastructure platforms.
+
+4. GIS & Geospatial Intelligence
+GIS mapping, geospatial analysis, GPS tracking systems and location intelligence solutions.
+
+5. Operational Intelligence
+Real-time monitoring systems, reporting infrastructure, analytics dashboards and workflow optimization systems.
+
+6. Survey Infrastructure
+Large-scale field survey management systems, socio-economic assessments, digital survey ecosystems and monitoring frameworks.
+
+7. Enterprise Consulting
+Strategic consulting, business advisory, operational planning and execution support services.
+
+8. Digital Transformation
+Technology modernization, automation systems, workflow digitization and enterprise digital infrastructure.
+
+9. Dashboard & Reporting Systems
+Business intelligence dashboards, operational analytics and performance monitoring systems.
+
+10. Startup Consulting
+Startup strategy, operational scaling, business systems and technology consulting.
+
+11. Autonomous Systems
+AI-integrated autonomous operational systems designed for scalable enterprise execution.
+
+12. Research & Data Collection
+Field research, socio-economic studies, assessment frameworks and structured data collection systems.
